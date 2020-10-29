@@ -29,5 +29,16 @@
 .main {
     margin-left: 200px; /* Zelfde Width van de sidenav */
     font-size: 28px; /* De Groote van de text */
-    padding: 0px 10px; /* Zorgt ervoor dat de text niet naast de navigatie balk zit */ 
+    padding: 0px 10px; /* Zorgt ervoor dat de text niet naast de navigatie balk zit */
+    
+    float: left;
+    width: 1300px;
+ background-color:orangered; 
+    
 }
+
+.stage2 {
+    width: 300px;
+}
+
+
